@@ -21,7 +21,7 @@
 #
 # Here are the steps you need to complete:
 #
-# 1. Write the CheckURI function, which takes a URI and returns True if a
+# 0. Write the CheckURI function, which takes a URI and returns True if a
 #    request to that URI returns a 200 OK, and False otherwise.
 #
 # 2. Write the code inside do_GET that sends a 303 redirect to a known name.
